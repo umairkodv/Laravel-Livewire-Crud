@@ -64,4 +64,4 @@ This project goes beyond the default Laravel Breeze setup with the following enh
 
 ## Found a bug? Got a question/idea?
 
-Raise a GitHub issue or email `info@laraveldaily.com`. 
+Raise a GitHub issue. 
