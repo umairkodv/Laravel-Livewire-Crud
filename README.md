@@ -58,10 +58,6 @@ This project goes beyond the default Laravel Breeze setup with the following enh
 7. Uses "flash" messages in the session to show the result after store/update/delete: `session()->flash('message', 'Post updated successfully');`
 8. Includes Pest test file `PostsTest` that has methods to test all Livewire form elements and also validation of each field.
 
-![](https://laraveldaily.com/uploads/2024/12/crud-livewire-posts-tests.png)
-
----
-
 ## Found a bug? Got a question/idea?
 
 Raise a GitHub issue. 
