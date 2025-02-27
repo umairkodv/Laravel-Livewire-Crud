@@ -12,7 +12,7 @@ Follow these steps to set up the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LaravelDaily/CRUDs-Laravel-Livewire project
+   git clone https://github.com/umairkodv/Laravel-Livewire-Crud.git
    cd project
    ```
 
