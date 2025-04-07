@@ -1,4 +1,4 @@
-# Laravel CRUD: Breeze + Livewire and Alpine.js Version  
+# Laravel CRUD: Breeze + Livewire and Alpine.js Version
 
 This project is a simple Laravel CRUD for Posts model built on top of Laravel Breeze starter kit, adding Livewire + (Alpine functionality).
 
